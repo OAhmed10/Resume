@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name": "Ahmed Albrak",
+    "occupation": "(Web Developer)",
+    "description": "front-end developer with passion to apply my knolwedge in user experience design & development. Passionate about creating simple solutions to complex problem and paying attention to detail, ro excute work effectively.",
+    "image": "profilepic.jpg",
+    "bio": "An ambitious , hard worker , a freshgraduate who is seeking a challenge to improve my skills and abilities ,a position where I could utilize my talent and skills inachieving the entity's growth objectives.",
+    "contactmessage": "Send me any massges and Suggestions.",
+    "email": "ahmadmassad2013@gmail.com",
+    "phone": "0594488601",
+    "address": {
+      "street": "(ALgazalh)",
+      "city": "From Hail",
+      "state": "(Hail)",
+      "zip": ""
+    },
+    "website": "https://drive.google.com/drive/folders/1Byj_h_l1ULneBc1HZA1sM7ZOQ8UxQqjC",
+    "resumedownload": "https://drive.google.com/drive/folders/1Byj_h_l1ULneBc1HZA1sM7ZOQ8UxQqjC",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/iiosix",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/tbakerx",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/oahmed10",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/OAhmed10",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My skills",
+    "education": [
+      {
+        "school": "University of Hail",
+        "degree": "Bachelor in Computer Engineering",
+        "graduated": "DEC 2018",
+        "description": "Relevant Coursework : Computer Engineering Fundamentals, Wireless Communications & Networking, Computational Algorithms, Natural Language Processing, Java Programming "
+      },
+      {
+        "school": "Courses",
+        "degree": "General assembly & eLearnSecurity Junior Penetration Tester",
+        "graduated": "2021/ 2020",
+        "description": "Design, develop and test HTML5, CSS3, Bootstrap, JavaScript, jQuery and React js || Overall IT experience , Detailed knowledge of Penetration Testing Tools, Techniques and Methodologies Experience of undertaking both automated and manual application Penetration Testing assessments within Agile environments"
+      }
+    ],
+    "work": [
+      {
+        "company": "General assembly and Misk academy",
+        "title": "Train course",
+        "years": "March 2021",
+        "description": "Front End Programming Immersive with React participants will learn how to create an interactive website with HTML, CSS and JavaScript. Learn the front end JavaScript library React.js and the popular accompanying package React Router. Build your own web application and compile a professional project portfolio to showcase your new skills"
+      },
+      {
+        "company": "Project",
+        "title": "Programming Site",
+        "years": "February 2021 ",
+        "description": "IF you want to learn how to code, taking your first steps into this huge universe might seem like a daunting, if not intimidating task. Here’s the big secret: There are plenty of free (and inexpensive) resources you can use to give yourself all the help you need, teach yourself new techniques, and make this learning process fun and exciting—as exciting as coding can get, at least."
+      }
+    ],
+    "skills": [
+      {
+        "name": "javascript",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "JQuery",
+        "level": "80%"
+      },
+      {
+        "name": "python",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "": ""
+      },
+      {
+        "title": "Programming Courses",
+        "category": "Javascript, Python, html&css",
+        "image": "programmingcourse.jpg",
+        "url": "https://pages.git.generalassemb.ly/oahmed/project_2/"
+      },
+      {
+        "title": "My store",
+        "category": "You can join many courses as you want",
+        "image": "lovepro.jpg",
+        "url": "https://pages.git.generalassemb.ly/oahmed/project_2/reigest.html"
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "كثير من الفشل فى الحياة جاء لأشخاص توقفوا عندما لم يعلموا كم كانوا قربين من النجاح - توماس أديسون",
+        "user": "السر الأعظم للنجاح فى الحياة هو أن تدرك ما المقدار لك فعله ثم تقوم بفعله-هنري فورد."
+      },
+      {
+        "text": "  .. وليس الغنى إِلا غِنَى العلم إِنه لنور الفتى يجلو ظلامَ افتقارهِ ولا تحسبنَّ العلمَ في الناسِ منجيا إِذا نكبت أخلاقُهم عن منارهِ وما العلمُ إِلا النورُ يجلو دجى العمى لكن تزيغُ العينُ عند انكسارهِ فما فاسدُ الأخلاقِ بالعلمِ مفلحا وإِن كان بحراً زاخرا من بحارهِ خليل الخطيب: ما لي أرى التعليمَ أصبحَ عاجزا عن أن يصحُّ من النفوسِ مكسرا؟ عُكِسَتْ نتائجُهُ فأصبحَ هديْهُ غِبا وأضحى صَفْوَه متكَدرا يهدي معلمُهُ ومن ذا يهتدي بعلمٍ في الناسِ قُبحَ مَخْبَرا ينهى ويأتي ما نهى أفتحتذي بفعالِه أم بالمقالِ مزوَّرا وإِذا المعلمُ لم تكنْ أقوالُهُ طبقَ الفِعالِ فقولُه لن يثمراالعلم لا يعدله شيء إذا كان خالصاً. العلم وحده لا يكفي ما لم يتوّج صاحبه بمكارم الأخلاق. إنما العلم بالتعلم وإنما الفقه بالتفقه. العلم قوة أعظم من أي قوة إنسانية. الإنسان يجب أن يتساءل، هذا هو بذرة العلم. العلم هو أفضل ما تم ابتكاره لفهم العالم ويجب علينا أن نحبه.",
+        "user": "معروف الرصافي:"
+      }
+    ]
+  }
+}
